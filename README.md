@@ -1,6 +1,14 @@
 # Robot Open Platform
 Robot open platform with shared schema circuit and some source code
 
+### How it looks
+![tank outside](images/01-hd.jpg)
+
+![tank inside](images/02-hd.jpg)
+
+### Circuit schema
+![circuit schema](images/circuit_schema.png)
+
 ### Details
 * [Raspberry Pi Zero W](https://a.aliexpress.com/_eNyAUF)
 
