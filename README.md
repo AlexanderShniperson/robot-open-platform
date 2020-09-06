@@ -1,15 +1,19 @@
 # Robot Open Platform
-Robot open platform with shared schema circuit and some source code
+Robot open platform with shared circuit schema and some source code to control 5 motors with PCA9685 controller connected to Raspberry Pi with I2C pins.
 
-### How it looks
+***This is part of our online game project "Real tank battleground online".***
+
+[![Download from Google Play](images/google-play-badge.png)](https://play.google.com/store/apps/details?id=net.orionlab.tankmobileclient)
+
+## How it looks
 ![tank outside](images/01-hd.jpg)
 
 ![tank inside](images/02-hd.jpg)
 
-### Circuit schema
+## Circuit schema
 ![circuit schema](images/circuit_schema.png)
 
-### Details
+## Components
 * [Raspberry Pi Zero W](https://a.aliexpress.com/_eNyAUF)
 
 ![Raspberry Pi Zero W](images/rpi-zero-w.jpg)
