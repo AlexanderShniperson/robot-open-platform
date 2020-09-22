@@ -13,6 +13,9 @@ Robot open platform with shared circuit schema and some source code to control 5
 ## Circuit schema
 ![circuit schema](images/circuit_schema.png)
 
+## Robots In Action
+[![Watch the video](https://img.youtube.com/vi/RE2C5w7_8dc/hqdefault.jpg)](https://youtu.be/RE2C5w7_8dc)
+
 ## Components
 * [Raspberry Pi Zero W](https://a.aliexpress.com/_eNyAUF)
 
